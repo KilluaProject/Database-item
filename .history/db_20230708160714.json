@@ -1,0 +1,11 @@
+{
+    "products" : [
+
+        {
+           "id" : 1,
+           "title" : "Sampoerna",
+           "harga" : 2000
+           
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "produk": "Computer",
+      "harga": 2513,
+      "id": "1"
+      },
+      {
+      "produk": "Pants",
+      "harga": 82445,
+      "id": "2"
+      },
+      {
+      "produk": "Ball",
+      "harga": 64587,
+      "id": "3"
+      }
+  ]
+}

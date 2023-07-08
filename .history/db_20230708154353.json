@@ -1,0 +1,37 @@
+{
+    "products" : [
+
+
+
+        {
+            "produk": "Pants",
+            "harga": "273.00",
+            "id": "1"
+        },
+        {
+            "produk": "Pizza",
+            "harga": "30.00",
+            "id": "2"
+        },
+        {
+            "produk": "Gloves",
+            "harga": "923.00",
+            "id": "3"
+        },
+        {
+            "produk": "Chips",
+            "harga": "981.00",
+            "id": "4"
+        },
+        {
+            "produk": "Shirt",
+            "harga": "683.00",
+            "id": "5"
+        },
+        {
+            "produk": "Chicken",
+            "harga": "459.00",
+            "id": "6"
+        }
+    ]
+}

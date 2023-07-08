@@ -1,0 +1,23 @@
+{
+
+        "product" : [
+            {
+                "id" : 1,
+                "title" : "Sampoerna",
+                "harga" : 20000
+            },
+
+            {
+                "id" : 2,
+                "title" : "Samsu",
+                "harga" : 10000
+            },
+
+            {
+                "id" : 3,
+                "title" : "Pilter",
+                "harga" : 25000
+            }
+
+        ]
+}

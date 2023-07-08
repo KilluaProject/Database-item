@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Sampoerna",
+      "price": 2000
+    },
+    {
+      "title": "asdas",
+      "price": "200",
+      "id": 2
+    },
+    {
+      "title": "Agung",
+      "price": "400",
+      "id": 3
+    }
+  ]
+}
